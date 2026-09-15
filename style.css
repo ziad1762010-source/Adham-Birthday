@@ -2649,7 +2649,7 @@ textarea {
             rgba(10, 8, 6, 0.78),
             rgba(10, 8, 6, 0.94)
         ),
-        url("birthday-bg.jpg") center / cover no-repeat;
+        url("Birthday-bg.jpg") center / cover no-repeat;
 
     filter: saturate(0.8);
 }
